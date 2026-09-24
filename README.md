@@ -1,8 +1,8 @@
-# Beyond the black box: Physics-informed structural causal model reveals mechanistic interactions in alloy strengthening
+# Beyond the black box: Physics-informed causal learning reveals mechanistic interactions in nanocrystalline alloy strengthening
 
 This repository contains the code accompanying the paper:
 
-**“Beyond the black box: Physics-informed structural causal model reveals mechanistic interactions in alloy strengthening”**
+**“Beyond the black box: Physics-informed causal learning reveals mechanistic interactions in nanocrystalline alloy strengthening”**
 
 ---
 
